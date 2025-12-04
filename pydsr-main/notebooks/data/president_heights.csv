@@ -7,7 +7,7 @@ order,name,height(cm)
 6,John Quincy Adams,171
 7,Andrew Jackson,185
 8,Martin Van Buren,168
-9,William Henry Harrison,173
+9,William Henry Harrison,
 10,John Tyler,183
 11,James K. Polk,173
 12,Zachary Taylor,173
@@ -16,7 +16,7 @@ order,name,height(cm)
 15,James Buchanan,183
 16,Abraham Lincoln,193
 17,Andrew Johnson,178
-18,Ulysses S. Grant,173
+18,Ulysses S. Grant,
 19,Rutherford B. Hayes,174
 20,James A. Garfield,183
 21,Chester A. Arthur,183
